@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center"> 🍎 iOS Development - 💻  Computer Science & Engineering</h3>
+<h3 align="center">🍎  iOS Development</h3>
+<h3 align="center">💻  Computer Science & Engineering</h3>
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a align="center" href="https://linkedin.com/in/umutocguder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umutocguder" height="30" width="40" /></a>
