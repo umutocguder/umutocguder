@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋</h1>
 <h3 align="center">Swift UI - iOS Developer</h3>
 <h3 align="center">Connect with me</h3>
 <p align="center">
